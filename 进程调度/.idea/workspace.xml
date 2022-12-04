@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a178f86-9321-4d12-94df-55fba0504fbf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29NtBrTAp9pOVChrtRcY917RsbR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/JFormDesigner-Idea.jar" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="进程调度" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProcessSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="utils.ProcessSort" />
+      <module name="进程调度" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ProcessSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a178f86-9321-4d12-94df-55fba0504fbf" name="Changes" comment="" />
+      <created>1652965240486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652965240486</updated>
+      <workItem from="1652965244189" duration="114000" />
+      <workItem from="1652965372611" duration="96000" />
+      <workItem from="1652965482968" duration="391000" />
+      <workItem from="1652965890389" duration="42000" />
+      <workItem from="1652965947288" duration="12000" />
+      <workItem from="1652966167397" duration="1301000" />
+      <workItem from="1652967736092" duration="10000" />
+      <workItem from="1652968006117" duration="2255000" />
+      <workItem from="1652970305639" duration="12000" />
+      <workItem from="1652970344449" duration="223000" />
+      <workItem from="1653010650142" duration="10000" />
+      <workItem from="1653010689722" duration="8765000" />
+      <workItem from="1653026354932" duration="11000" />
+      <workItem from="1653026402762" duration="5852000" />
+      <workItem from="1653033304154" duration="2597000" />
+      <workItem from="1653035947013" duration="1115000" />
+      <workItem from="1653099625373" duration="12000" />
+      <workItem from="1653099673542" duration="4139000" />
+      <workItem from="1653130143846" duration="2112000" />
+      <workItem from="1653132309367" duration="2606000" />
+      <workItem from="1653460356008" duration="45000" />
+      <workItem from="1653460429670" duration="7041000" />
+      <workItem from="1653797324944" duration="87000" />
+      <workItem from="1653914124137" duration="108000" />
+      <workItem from="1653915474149" duration="125000" />
+      <workItem from="1653993431764" duration="2105000" />
+      <workItem from="1654345624496" duration="24000" />
+      <workItem from="1654345675324" duration="2343000" />
+      <workItem from="1654393884585" duration="5444000" />
+      <workItem from="1655463772824" duration="1082000" />
+      <workItem from="1658544558844" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
